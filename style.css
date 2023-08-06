@@ -5,6 +5,10 @@ body {
     font-family: 'Cormorant', serif;
 }
 
+.logo{
+    color: #02414a;
+}
+
 h1
 {
     text-align: center;
